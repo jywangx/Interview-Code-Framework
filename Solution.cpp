@@ -1,5 +1,7 @@
 #include <iostream>
 
+#include <bits/stdc++.h>
+
 #include <list>
 #include <vector>
 #include <stack>
@@ -22,5 +24,5 @@ public:
 int main() {
     Solution s;
     s.helloWorld();
-    return 1;
+    return 0;
 }
